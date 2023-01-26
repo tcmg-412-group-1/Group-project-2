@@ -1,1 +1,1 @@
-# Group-project-2
+# This is the Repo for Group 1 Blog Site
