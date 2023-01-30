@@ -18,5 +18,9 @@ A bit more about me would be that I'm a musician, and I played 5 different instr
 
 Anyway, thank you for reading my bio, it's an honor to be in this class.
 
+Oh, here is a cool image I found
+
+![reveille](https://reveille.tamu.edu/assets/img/Rev-Social.JPG)
+
 Best Regard,
 Phan
