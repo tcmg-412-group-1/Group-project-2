@@ -17,7 +17,10 @@ What defines me above anything else is that I'm a grateful husband to an `incred
 Thank you to anyone taking the time to read this brief bio. I look forward to working with you all!
 
 Best,
+
+
 Steve Nelson
+
 [LinkedIn][linkedin]
 
 
