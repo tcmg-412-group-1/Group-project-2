@@ -6,7 +6,7 @@ categories: blog
 ---
 
 ## About Me
-My name is August Finger, I'm a senior Tech Management major here at Texas A&M, and I am excited to be taking this class. 
+My name is August Finger, and I'm a senior Tech Management major here at Texas A&M. I am excited to be taking this class. 
 I've worked as a student worker here on campus in the Liberal Arts IT department for the past 1.5 years.
 
 I am new to GitHub, so I hope to be experienced with GitHub when we finish this class. I am very grateful that we have the chance here to get to know how to use GitHub in a learning environment.
