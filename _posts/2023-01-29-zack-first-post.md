@@ -17,4 +17,4 @@ This class will be a great class for me and has already taught me a few things I
 
 Thank you for viewing my first blog post!
 
-Here's my LinkedIn: [LinkedIn]https://www.linkedin.com/in/zackary-howell-7760a5251/
+Here's my LinkedIn: [LinkedIn](https://www.linkedin.com/in/zackary-howell-7760a5251/)
