@@ -26,6 +26,6 @@ Just... please don't make fun of the art. Drawing isn't my strong suit ^^;
 
 Between this incredible course and the progress I'm (slowly) making on my personal project, this promises to be a great semester. I can't wait to get to work!
 
-Until then, take care! See you next time~!
+Until then, take care! See you next time!
 
 [^1]: That seems outrageous, but in my defense, [I did write my own engine for this game](https://www.merriam-webster.com/dictionary/maniacal).
