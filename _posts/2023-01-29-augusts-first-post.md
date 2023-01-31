@@ -17,3 +17,6 @@ I trust that my fellow bloggers and I will be a great group this semester!
 Looking forward to our next post!
 
 By August Finger [LinkedIn](https://www.linkedin.com/in/august-finger-625622184/)
+
+PS: Here is a picture of my(my parent's) dog!
+<img src="/_site/assets/August's Dog.jpg">
