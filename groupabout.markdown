@@ -1,7 +1,8 @@
 ---
 layout: page
-title: The Green Hat
-permalink: /About Us/
+title: The Green Hats
+permalink: /about-us/
 ---
 
-This page is about our group, TCMG 412 Group 1, nickname "The Green Hat"
+This is the home of The Green Hats, a project group for TCMG 412 at Texas A&M University.
+We're a team of six fearless technology management students: Anh Phan, August Finger, Manny Mendoza, Ruby L., Steve Nelson, and Zackary Howell.
