@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "August's First Post"
+author: "August Finger"
 date:   2023-01-29 20:51:50 -0600
 categories: blog
 ---

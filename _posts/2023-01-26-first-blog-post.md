@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "First Blog Post"
+author: "Anh Phan"
 date:   2023-01-26 19:12:38 -0600
 categories: blog
 ---

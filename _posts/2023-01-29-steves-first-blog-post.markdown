@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Steve's First Blog Post"
+author: "Steve Nelson"
 date:   2023-01-29 16:40:00 -0600
 categories: blog
 ---

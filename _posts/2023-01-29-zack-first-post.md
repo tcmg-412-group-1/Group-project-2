@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Zack's First Post"
+author: "Zackary Howell"
 date: 2023-01-29 23:32 -0600
 categories: blog
 ---
