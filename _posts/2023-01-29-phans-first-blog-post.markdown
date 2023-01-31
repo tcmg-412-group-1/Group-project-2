@@ -18,5 +18,9 @@ A bit more about me would be that I'm a musician, and I played 5 different instr
 
 Anyway, thank you for reading my bio, it's an honor to be in this class.
 
+Oh here is a cute pic of our queen
+
+![Reveille the Queen](/assets/Rev-Social.JPG)
+
 Best Regard,
 Phan
