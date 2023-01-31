@@ -13,5 +13,7 @@ I am new to GitHub, so I hope to be experienced with GitHub when we finish this 
 
 I trust that my fellow bloggers and I will be a great group this semester!
 
-Thank you for reading!!
+
+Looking forward to our next post!
+
 By August Finger [LinkedIn](https://www.linkedin.com/in/august-finger-625622184/)
