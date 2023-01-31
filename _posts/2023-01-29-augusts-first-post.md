@@ -20,4 +20,4 @@ Looking forward to our next post!
 By August Finger [LinkedIn](https://www.linkedin.com/in/august-finger-625622184/)
 
 PS: Here is a picture of my(my parent's) dog!
-![My dog, Riley, standing on a Frisbee](/assets/August's Dog.jpg)
+![My dog, Riley, standing on a Frisbee](/assets/Augusts-Dog.jpg)
