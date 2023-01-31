@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This is Steve's First Blog Post!"
+title:  "Steve's First Blog Post"
 date:   2023-01-29 16:40:00 -0600
 categories: blog
 ---
@@ -17,7 +17,6 @@ What defines me above anything else is that I'm a grateful husband to an `incred
 Thank you to anyone taking the time to read this brief bio. I look forward to working with you all!
 
 Best,
-
 
 Steve Nelson
 
