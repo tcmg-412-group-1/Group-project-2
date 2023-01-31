@@ -24,4 +24,8 @@ Steve Nelson
 [LinkedIn][linkedin]
 
 
+P.S.: Here's an image of my beautiful girls that was taken at Disney World during Christmas 2021!
+
+![Image of my three daughters](tcmg-412-group-1.github.io/assets/20211220_182811.jpg)
+
 [linkedin]: https://www.linkedin.com/in/steve--nelson
